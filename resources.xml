@@ -1,4 +1,0 @@
-<resources>
-    <string id="AppName">JsonRequest</string>
-    <bitmap id="LauncherIcon" filename="images/icon.png" />
-</resources>

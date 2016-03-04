@@ -1,0 +1,1 @@
+monkeyc -a /Users/wade.wegner/SDKs/connectiq-sdk-mac-1.2.5/bin/api.db -i /Users/wade.wegner/SDKs/connectiq-sdk-mac-1.2.5/bin/api.debug.xml -o ./JsonRequest.iq -m manifest.xml -z resources/drawables.xml:resources/strings.xml src/JsonRequest.mc src/JsonRequestView.mc -d round_watch_sim -w -e
